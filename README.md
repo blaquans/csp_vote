@@ -16,6 +16,8 @@
 
 * [Carte du vote FN et inégalités](http://www.franceculture.fr/emission-les-matins-pourquoi-ou-vote-t-on-fn-les-nouvelles-cartes-du-front-national-2015-03-12), Les Matins de France-Culture le 12 mars 2015. 
 	* Est-ce qu'on peut faire le même exercice avec nos données ? Est-ce qu'on retrouve le même résultat ?
+* [Contextualiser sans faire de l'espace un facteur autonome. La modélisation multiniveau comme lieu de rencontre entre sociologie et géographie électorales](http://espacepolitique.revues.org/3066) par Joel Gombin dans la revue Espace politique
+* 
 
 ## Données utilisées
 
