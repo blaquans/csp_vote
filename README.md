@@ -3,6 +3,20 @@
 * Projet mené avec @vinpons, @ineslevy, @sl956 et @blaquans
 * [pad du projet](https://lite5.framapad.org/p/cspvote)
 
+## ToDo
+
+* Outcome 
+	* Abstention
+	* Vote d'extrême droite
+
+* Déterminants 
+	* Structure familiale (familles monoparentales, etc)
+
+## Revue de littérature et idées à tester
+
+* [Carte du vote FN et inégalités](http://www.franceculture.fr/emission-les-matins-pourquoi-ou-vote-t-on-fn-les-nouvelles-cartes-du-front-national-2015-03-12), Les Matins de France-Culture le 12 mars 2015. 
+	* Est-ce qu'on peut faire le même exercice avec nos données ? Est-ce qu'on retrouve le même résultat ?
+
 ## Données utilisées
 
 * [Données du recensement sur le secteur d'activité de la population active par commune](http://www.insee.fr/fr/themes/detail.asp?reg_id=99&ref_id=pop-act-csp-dipl) 
